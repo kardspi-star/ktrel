@@ -1,0 +1,11 @@
+name: ktrel-bot
+url: https://example.com/
+hook_attributes:
+  url: https://example.com/webhook
+  active: true
+redirect_url: https://example.com/
+public: false
+default_permissions:
+  contents: write
+  metadata: read
+default_events: []
